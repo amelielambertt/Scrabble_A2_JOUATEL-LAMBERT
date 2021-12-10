@@ -7,7 +7,8 @@ using System.IO;
 
 namespace Scabble_JOUATEL
 {
-    class Sac_Jetons
+    class Sac_Jetons //commentaire
+        
     {
         private Stack<Jetons> Pioche; // Création de la pioche sous forme de pile
 
